@@ -57,10 +57,7 @@ Kullanıcıların günlük sağlık verilerini takip ederek daha düzenli bir ya
 🛠️ **Teknolojiler:** Flutter, API, JSON  
 🎯 **Odak:** Sağlık takibi & kullanıcı alışkanlıkları
 
-📸 **Uygulama Görseli / GIF:**  
-<!-- BURAYA GIF KOY -->
-<!-- Örnek: -->
-<!-- ![Saglik Asistanim](assets/saglik_asistanim.gif) -->
+
 
 ---
 
@@ -70,8 +67,7 @@ Film seçme kararsızlığını ortadan kaldırmayı amaçlayan, kullanıcı ter
 🛠️ **Teknolojiler:** Flutter, REST API  
 🎯 **Odak:** Film öneri sistemi
 
-📸 **Uygulama Görseli / GIF:**  
-<!-- ![MoviMatch](assets/movimatch.gif) -->
+
 
 ---
 
@@ -81,8 +77,6 @@ Pomodoro tekniği ile odaklanmayı ve verimli çalışmayı destekleyen zaman y�
 🛠️ **Teknolojiler:** Flutter  
 🎯 **Odak:** Zaman yönetimi & verimlilik
 
-📸 **Uygulama Görseli / GIF:**  
-<!-- ![Pomotime](assets/pomotime.gif) -->
 
 ---
 
@@ -92,8 +86,6 @@ Kullanıcıların aktif aboneliklerini takip ederek gereksiz harcamaları fark e
 🛠️ **Teknolojiler:** Flutter  
 🎯 **Odak:** Finansal farkındalık
 
-📸 **Uygulama Görseli / GIF:**  
-<!-- ![Abonelik Bekçisi](assets/abonelik_bekcisi.gif) -->
 
 ---
 
