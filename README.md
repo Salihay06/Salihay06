@@ -49,15 +49,21 @@ Gerçek hayattaki problemleri çözen, kullanıcı odaklı mobil ve web uygulama
 
 ---
 
-## 📱 Flutter ile Geliştirdiğim Mobil Uygulamalar
+## 📱 Mobil Developer Olarak Geliştirdiğim Mobil Uygulamalar
+
+### 🕌 Vakti İslam
+Namaz vakitlerini takip etmeyi, ibadet düzenini kolaylaştırmayı amaçlayan mobil uygulama.
+
+🛠️ **Teknolojiler:** Flutter, API, JSON  
+🎯 **Odak:** Dini vakit takibi & kullanıcı deneyimi
+
+---
 
 ### 🩺 Sağlık Asistanım
 Kullanıcıların günlük sağlık verilerini takip ederek daha düzenli bir yaşam sürmesini hedefleyen mobil uygulama.
 
 🛠️ **Teknolojiler:** Flutter, API, JSON  
 🎯 **Odak:** Sağlık takibi & kullanıcı alışkanlıkları
-
-
 
 ---
 
@@ -67,8 +73,6 @@ Film seçme kararsızlığını ortadan kaldırmayı amaçlayan, kullanıcı ter
 🛠️ **Teknolojiler:** Flutter, REST API  
 🎯 **Odak:** Film öneri sistemi
 
-
-
 ---
 
 ### ⏱️ Pomotime
@@ -76,7 +80,6 @@ Pomodoro tekniği ile odaklanmayı ve verimli çalışmayı destekleyen zaman y�
 
 🛠️ **Teknolojiler:** Flutter  
 🎯 **Odak:** Zaman yönetimi & verimlilik
-
 
 ---
 
@@ -86,6 +89,16 @@ Kullanıcıların aktif aboneliklerini takip ederek gereksiz harcamaları fark e
 🛠️ **Teknolojiler:** Flutter  
 🎯 **Odak:** Finansal farkındalık
 
+---
+
+## 🏫 Üniversite Projesi
+
+### 🍽️ Bandırma Onyedi Eylül Üniversitesi – Yemekhane Modülü
+Bandırma Onyedi Eylül Üniversitesi için ekip olarak geliştirilen mobil uygulamanın **yemekhane modülünü** tasarlayıp geliştirdim.
+
+🛠️ **Teknolojiler:** React 
+🎯 **Odak:** Günlük yemek listesi, kullanıcı bilgilendirme  
+🤝 **Rolüm:** Mobil Developer (Yemekhane Modülü)
 
 ---
 
