@@ -97,7 +97,7 @@ Kullanıcıların aktif aboneliklerini takip ederek gereksiz harcamaları fark e
 Bandırma Onyedi Eylül Üniversitesi için ekip olarak geliştirilen mobil uygulamanın **yemekhane modülünü** tasarlayıp geliştirdim.
 
 🛠️ **Teknolojiler:** React 
-🎯 **Odak:** Günlük yemek listesi, kullanıcı bilgilendirme  
+🎯 **Odak:** Günlük yemek listesi, kullanıcı bilgilendirme, değerlendirme
 🤝 **Rolüm:** Mobil Developer (Yemekhane Modülü)
 
 ---
