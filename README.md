@@ -1,129 +1,95 @@
-<h1 align="center">👋 Merhaba, ben Muhammed Salih Ay</h1>
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Muhammed%20Salih%20Ay&fontSize=40&fontColor=ffffff&animation=fadeIn&theme=tokyonight" />
+</div>
+
+<h3 align="center">Computer Engineering Student • Flutter Developer • Backend Focused</h3>
 
 <p align="center">
-Bilgisayar Mühendisliği (İngilizce) 2. sınıf öğrencisi • Flutter Developer • Backend Odaklı
+Gerçek problemleri çözen, kullanıcı odaklı mobil ve web uygulamalar geliştiriyorum.
 </p>
 
 <p align="center">
-Gerçek hayattaki problemleri çözen, kullanıcı odaklı mobil ve web uygulamalar geliştiriyorum.
-</p>
-
-<p align="center">
-🌐 <a href="https://muhammedsalihay.vercel.app/" target="_blank">Kişisel Web Sitem</a>
-</p>
-
----
-
-## 🛠️ Teknolojiler & Araçlar
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+  <a href="https://muhammedsalihay.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://github.com/Salihay06">💻 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/muhammedsalihay">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Salihay06&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salihay06&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salihay06&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Salihay06&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salihay06&theme=react-dark&area=true&hide_border=true" height="300"/>
+</div>
 
 ---
 
-## 📱 Mobil Developer Olarak Geliştirdiğim Mobil Uygulamalar
+## 🛠️ Tech Stack
 
-### 🕌 Vakti İslam
-Namaz vakitlerini takip etmeyi, ibadet düzenini kolaylaştırmayı amaçlayan mobil uygulama.
+<div align="center">
 
-🛠️ **Teknolojiler:** Flutter, API, JSON  
-🎯 **Odak:** Dini vakit takibi & kullanıcı deneyimi
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,html,css,react,git,github" />
 
----
-
-### 🩺 Sağlık Asistanım
-Kullanıcıların günlük sağlık verilerini takip ederek daha düzenli bir yaşam sürmesini hedefleyen mobil uygulama.
-
-🛠️ **Teknolojiler:** Flutter, API, JSON  
-🎯 **Odak:** Sağlık takibi & kullanıcı alışkanlıkları
+</div>
 
 ---
 
-### 🎬 MoviMatch
-Film seçme kararsızlığını ortadan kaldırmayı amaçlayan, kullanıcı tercihlerine göre öneriler sunan uygulama.
+## 📱 Featured Projects
 
-🛠️ **Teknolojiler:** Flutter, REST API  
-🎯 **Odak:** Film öneri sistemi
-
----
-
-### ⏱️ Pomotime
-Pomodoro tekniği ile odaklanmayı ve verimli çalışmayı destekleyen zaman yönetimi uygulaması.
-
-🛠️ **Teknolojiler:** Flutter  
-🎯 **Odak:** Zaman yönetimi & verimlilik
+### 🕌 Vakti İslam  
+Namaz vakitlerini takip etmeyi kolaylaştıran mobil uygulama  
+**Tech:** Flutter • API • JSON  
 
 ---
 
-### 💳 Abonelik Bekçisi
-Kullanıcıların aktif aboneliklerini takip ederek gereksiz harcamaları fark etmelerini sağlayan mobil uygulama.
-
-🛠️ **Teknolojiler:** Flutter  
-🎯 **Odak:** Finansal farkındalık
+### 🩺 Sağlık Asistanım  
+Günlük sağlık verilerini takip eden uygulama  
+**Tech:** Flutter • API  
 
 ---
 
-## 🏫 Üniversite Projesi
-
-### 🍽️ Bandırma Onyedi Eylül Üniversitesi – Yemekhane Modülü
-Bandırma Onyedi Eylül Üniversitesi için ekip olarak geliştirilen mobil uygulamanın **yemekhane modülünü** tasarlayıp geliştirdim.
-
-🛠️ **Teknolojiler:** React 
-🎯 **Odak:** Günlük yemek listesi, kullanıcı bilgilendirme, değerlendirme
-🤝 **Rolüm:** Mobil Developer (Yemekhane Modülü)
+### 🎬 MoviMatch  
+Kullanıcıya özel film öneri sistemi  
+**Tech:** Flutter • REST API  
 
 ---
 
-## 🧠 Deneyimler & Aktiviteler
-
-- 🚁 **TÜBİTAK İnsansız Hava Aracı Yarışması** – Takım Kaptanı  
-- 📱 **Bandırma Onyedi Eylül Üniversitesi YBST Kulübü** – Mobil Developer  
-- 🧩 Algoritma & Hackathon yarışmaları  
-- 🤝 Ekip çalışması ve teknik liderlik
+### ⏱️ Pomotime  
+Pomodoro ile odak artırma uygulaması  
+**Tech:** Flutter  
 
 ---
 
-## 🌱 Şu Anda
-
-- Flutter ve backend yetkinliğimi ileri seviyeye taşıyorum  
-- Daha ölçeklenebilir ve gerçek kullanıcıya dokunan projeler geliştiriyorum  
-- Yeni mobil & web fikirleri üzerinde çalışıyorum
+### 💳 Abonelik Bekçisi  
+Abonelik takibi ve finansal farkındalık  
+**Tech:** Flutter  
 
 ---
 
-## 📫 Bana Ulaş
+## 🏗️ Experience
 
-- 🌐 Web: https://muhammedsalihay.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammedsalihay
-- 💻 GitHub: https://github.com/Salihay06
-- ✉️ Mail: salihay.mardin47@gmail.com
+- 🚁 TÜBİTAK İHA Yarışması — Takım Kaptanı  
+- 📱 YBST Kulübü — Mobil Developer  
+- 🍽️ Üniversite Projesi — Yemekhane Modülü (React)
 
-⭐ Profilime göz attığın için teşekkürler!
+---
+
+## 📈 Current Focus
+
+- Backend geliştirme & API design  
+- Ölçeklenebilir sistemler  
+- Production-level mobil uygulamalar  
+
+---
+
+## 📫 Contact
+
+📧 salihay.mardin47@gmail.com  
+🌐 https://muhammedsalihay.vercel.app/
+
+---
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
+</div>
