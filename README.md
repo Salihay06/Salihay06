@@ -28,9 +28,7 @@ Gerçek problemleri çözen, kullanıcı odaklı mobil ve web uygulamalar geliş
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,html,css,react,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,html,css,react,git,github" />
 </div>
 
 ---
@@ -87,6 +85,16 @@ Abonelik takibi ve finansal farkındalık
 
 📧 salihay.mardin47@gmail.com  
 🌐 https://muhammedsalihay.vercel.app/
+
+---
+
+## 🧩 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salihay06/Salihay06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salihay06/Salihay06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Salihay06/Salihay06/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
